@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-23T23:51:35 IST" name="Default suite" finished-at="2025-03-23T23:53:17 IST" duration-ms="101923">
+    <groups>
+    </groups>
+    <test started-at="2025-03-23T23:51:35 IST" name="Default test" finished-at="2025-03-23T23:53:17 IST" duration-ms="101923">
+      <class name="com.stctv.tests.MyTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.stctv.tests.MyTest@409bf450]" started-at="2025-03-23T23:51:35 IST" name="initializeDriver" finished-at="2025-03-23T23:52:17 IST" duration-ms="41985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="firstTest()[pri:0, instance:com.stctv.tests.MyTest@409bf450]" started-at="2025-03-23T23:52:17 IST" name="firstTest" finished-at="2025-03-23T23:53:17 IST" duration-ms="59168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stctv.tests.MyTest@409bf450]" started-at="2025-03-23T23:53:17 IST" name="tearDown" finished-at="2025-03-23T23:53:17 IST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stctv.tests.MyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
