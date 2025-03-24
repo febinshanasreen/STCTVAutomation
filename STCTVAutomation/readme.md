@@ -10,8 +10,7 @@ This automation framework is built using **Demo Web Shop** as the system under t
 - **Reporting:** Extent Reports  
 
 ## Features  
-- Supports **parallel** and **sequential** execution  
-- Cross-browser testing on **Chrome, Firefox, and Edge**  
+- Supports **sequential** execution    
 - Data-driven test execution  
 - Generates **Extent Reports** for test results  
 
@@ -27,7 +26,7 @@ README.md                      # Project documentation
 
 ## Prerequisites  
 Ensure you have the following installed:  
-- **Java (JDK 11+)**  
+- **Java (JDK 17+)**  
 - **Maven**  
 - **Chrome, Firefox, and Edge browsers**  
 
