@@ -1,16 +1,17 @@
 # Data-Driven Automation Framework  
 
 ## Overview  
-This automation framework is built using **Demo Web Shop** as the system under test. It follows a **data-driven approach** and is designed to support **parallel and sequential execution**. Additionally, it enables **cross-browser testing** across Chrome, Firefox, and Edge.  
+This automation framework is built using **STCTV Automation** as the system under test. It follows a **data-driven approach** and is designed to support **parallel and sequential execution**. Additionally, it enables **cross-browser testing** across Chrome, Firefox, and Edge.  
 
 ## Tech Stack  
 - **Build Tool:** Maven  
 - **Automation Library:** Selenium WebDriver  
 - **Test Framework:** TestNG  
-- **Reporting:** Extent Reports  
+- **Reporting:** Extent Reports
+- **cross-browser testing** across Chrome, Firefox, and Edge.   
 
 ## Features  
-- Supports **sequential** execution    
+- Supports **Parallel and sequential** execution    
 - Data-driven test execution  
 - Generates **Extent Reports** for test results  
 
